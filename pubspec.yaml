@@ -1,0 +1,137 @@
+name: ephrama
+description: E-Pharma is a basic interview application, right to use in  commercial purpose.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  badges: ^2.0.2
+  google_fonts: ^3.0.1
+  fluttertoast: ^8.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icon/
+    - assets/page-1/images/bluetooth.png
+    - assets/page-1/images/wifi.png
+    - assets/page-1/images/line-30.png
+    - assets/page-1/images/mobile-signal.png
+    - assets/page-1/images/battery.png
+    - assets/page-1/images/line-27.png
+    - assets/page-1/images/line-28.png
+    - assets/page-1/images/line-34.png
+    - assets/page-1/images/line-33.png
+    - assets/page-1/images/line-198.png
+    - assets/page-1/images/ictag.png
+    - assets/page-1/images/animation500l16kdxmf-1.png
+    - assets/page-1/images/icback-circle.png
+    - assets/page-1/images/battery-eoY.png
+    - assets/page-1/images/wifi-JQE.png
+    - assets/page-1/images/line-32.png
+    - assets/page-1/images/line-241.png
+    - assets/page-1/images/path-14892.png
+    - assets/page-1/images/icback-circle-rLW.png
+    - assets/page-1/images/vector.png
+    - assets/page-1/images/image.png
+    - assets/page-1/images/path-14892-YYe.png
+    - assets/page-1/images/line-31.png
+    - assets/page-1/images/wifi-etW.png
+    - assets/page-1/images/vector-8uU.png
+    - assets/page-1/images/mobile-signal-LCE.png
+    - assets/page-1/images/animation500l0ytwsto-1.png
+    - assets/page-1/images/line-240.png
+    - assets/page-1/images/vector-cPp.png
+    - assets/page-1/images/auto-group-ndcn.png
+    - assets/page-1/images/battery-5fL.png
+    - assets/page-1/images/bluetooth-5Sv.png
+    - assets/page-1/images/vector-ncE.png
+    - assets/page-1/images/mobile-signal-8xe.png
+    - assets/page-1/images/battery-Ype.png
+    - assets/page-1/images/icgreentick.png
+    - assets/page-1/images/checkbox.png
+    - assets/page-1/images/wifi-4nJ.png
+    - assets/page-1/images/battery-Xvn.png
+    - assets/page-1/images/animation500l0ytwsto-1-TrN.png
+    - assets/page-1/images/auto-group-ucla.png
+    - assets/page-1/images/battery-NgN.png
+    - assets/page-1/images/bluetooth-GMk.png
+    - assets/page-1/images/line-239.png
+    - assets/page-1/images/radio.png
+    - assets/page-1/images/animation500l0ytwsto-1-9PU.png
+    - assets/page-1/images/auto-group-qpsq.png
+    - assets/page-1/images/mobile-signal-LtW.png
+    - assets/page-1/images/line-239-7wC.png
+    - assets/page-1/images/battery-rtn.png
+    - assets/page-1/images/wifi-eKG.png
+    - assets/page-1/images/icback-circle-js4.png
+    - assets/page-1/images/radio-1kz.png
+    - assets/page-1/images/line-29.png
+    - assets/page-1/images/mobile-signal-xq4.png
+    - assets/page-1/images/vector-j6v.png
+    - assets/page-1/images/animation500l16kdxmf-1-1QS.png
+    - assets/page-1/images/ep-success-filled.png
+    - assets/page-1/images/wifi-Ntn.png
+    - assets/page-1/images/vector-AtW.png
+    - assets/page-1/images/auto-group-hcq8.png
+    - assets/page-1/images/battery-z94.png
+    - assets/page-1/images/mobile-signal-SML.png
+    - assets/page-1/images/bluetooth-FiW.png
+    - assets/page-1/images/line-193.png
+    - assets/page-1/images/battery-hn6.png
+    - assets/page-1/images/rectangle-353.png
+    - assets/page-1/images/auto-group-bky8.png
+    - assets/page-1/images/image-removebg-preview-1-1.png
+    - assets/page-1/images/group-5488.png
+    - assets/page-1/images/mobile-signal-UQN.png
+    - assets/page-1/images/icosearch.png
+    - assets/page-1/images/vector-UeS.png
+    - assets/page-1/images/bluetooth-1vW.png
+    - assets/page-1/images/auto-group-hnmx.png
+    - assets/page-1/images/auto-group-ynuq.png
+    - assets/page-1/images/wifi-cxe.png
+    - assets/page-1/images/bluetooth-uaN.png
+    - assets/page-1/images/mobile-signal-R2v.png
+    - assets/page-1/images/group-5481.png
+    - assets/page-1/images/wifi-pht.png
+    - assets/page-1/images/line-20.png
+    - assets/page-1/images/bluetooth-4Kx.png
+    - assets/page-1/images/icback-circle-1Pc.png
+    - assets/page-1/images/rectangle-355.png
+    - assets/page-1/images/animation500l16kdxmf-1-ppE.png
+    - assets/page-1/images/icback-circle-NsY.png
+    - assets/page-1/images/animation500l16kdxmf-1-Doc.png
+    - assets/page-1/images/bluetooth-q8i.png
+    - assets/page-1/images/icback-circle-QQ6.png
+    - assets/page-1/images/image-60.png
+    - assets/page-1/images/vector-vsQ.png
+    - assets/page-1/images/bluetooth-5up.png
+    - assets/page-1/images/battery-SAJ.png
+    - assets/page-1/images/wifi-xSi.png
+    - assets/page-1/images/vector-w98.png
+    - assets/page-1/images/path-14892-sU2.png
+    - assets/page-1/images/icback-circle-wjL.png
+    - assets/page-1/images/mobile-signal-6s8.png
+    - assets/page-1/images/bluetooth-TyG.png
+    - assets/page-1/images/wifi-bL2.png
+    - assets/page-1/images/mobile-signal-f6v.png
+    - assets/page-1/images/vector-wyY.png
+    - assets/page-1/images/image-D3t.png
+    - assets/page-1/images/bkashlogo.png
+    - assets/page-1/images/radio-uMp.png
+    - assets/page-1/images/vector-HHx.png
+    - assets/page-1/images/animation500l0ytwsto-1-ZXk.png
+    - assets/page-1/images/animation500l16kdxmf-1-7fc.png
+    - assets/page-1/images/mask-5-bg.png
+    - assets/page-1/images/animation500l0ytwsto-1-gmt.png
